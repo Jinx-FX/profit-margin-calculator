@@ -2,6 +2,8 @@
 
 use `vite` + `react-ts` + `tailwindcss` build a profit-margin-calculator
 
+**online addresses :** [jinx-fx.github.io/profit-margin-calculator](https://jinx-fx.github.io/profit-margin-calculator)
+
 ## Install Tailwind CSS with Vite
 
 Create project and select react-ts
